@@ -2,7 +2,7 @@ import shutil
 from pathlib import Path
 
 import click
-from tbparser.summary_reader import SummaryReader
+from tblog_cleaner.summary_reader import SummaryReader
 import argparse
 
 
