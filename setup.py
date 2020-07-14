@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="tblog-cleaner",
-    versino="0.1.0",
+    version="0.1.0",
     url="https://github.com/higumachan/tblog-cleaner",
     description="This is tensorboard log cleaner",
     install_requires=["tblog_cleaner", "click"],
