@@ -2,3 +2,4 @@ logs
 .idea
 .pyc
 __pycache__
+*.egg-info
