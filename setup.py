@@ -7,7 +7,7 @@ setup(
     description="This is tensorboard log cleaner",
     install_requires=["tbparser", "click"],
     dependency_links=['https://github.com/velikodniy/tbparser.git#egg=tbparser'],
-    packages=["tbparser"],
+    packages=["tblog_cleaner"],
     entry_points={
         "console_scripts": [
             "tblog-cleaner = tblog_cleaner.cli:main"
